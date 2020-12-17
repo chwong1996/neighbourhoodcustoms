@@ -1,7 +1,7 @@
 # Site settings
 title: Neighbourhood Customs
 email:
-description: > "Neighbourhood Customs - Your One Stop Car-Related shop"
+description: > Your One Stop Car-Related shop
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
